@@ -1,5 +1,4 @@
 # Selfbalancing-robot
-Selfbalancing robot project
-Projekti oli tasapainorobotti, joka suoritettiin 3 hengen ryhmissä OAMK:in ensimmäisen vuoden projektina. Projektin tavoite
-oli tehdä robotti, joka pystyy pitämään tasapainonsa 2 renkaalla. Robotti pitää tasapainonsa 2 DC moottorin,
-moottorin ohjaimen sekä kiihtyvyysanturin avulla.
+The project was the school's first project.
+The aim of the project wast that the robot should attempt to keep its balance with two wheels and correct itself from the effects of small outer forces. The project was done in a group of 3. 
+The finished project did not work as expected.
